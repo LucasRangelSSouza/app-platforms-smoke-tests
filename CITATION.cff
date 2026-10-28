@@ -1,7 +1,8 @@
 cff-version: 1.2.0
-title: "App platforms: measured smoke tests"
+title: "App platforms smoke tests"
 authors:
   - family-names: Rangel
     given-names: Lucas
 type: software
 date-released: 2026-10-28
+repository-code: "https://github.com/LucasRangelSSouza/app-platforms-smoke-tests"

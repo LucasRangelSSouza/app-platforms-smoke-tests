@@ -1,0 +1,23 @@
+{
+ "attempts": 17,
+ "attempts_ok": 7,
+ "disk_litpage": 1079.0,
+ "disk_mediamtx": 82.0,
+ "disk_open_webui": 382.0,
+ "disk_taipy": 610.0,
+ "harness_failures": 0,
+ "m_litpage_http_code": 200.0,
+ "m_mediamtx_probe_ms": 5328.0,
+ "m_taipy_http_code": 200.0,
+ "other_failures": 10,
+ "rss_litpage": 2954.0,
+ "rss_mediamtx": 135.0,
+ "rss_open_webui": 286.0,
+ "rss_taipy": 192.0,
+ "tools": 4,
+ "tools_with_success": 4,
+ "wall_litpage": 53.8,
+ "wall_mediamtx": 15.6,
+ "wall_open_webui": 257.0,
+ "wall_taipy": 111.5
+}

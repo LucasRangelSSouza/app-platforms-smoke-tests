@@ -1,0 +1,6 @@
+| tool_id | name | tier | attempts | successes | harness_failures | other_failures | wall_s | peak_rss_mb | disk_mb |
+|---|---|---|---|---|---|---|---|---|---|
+| taipy | Taipy | T2 | 9 | 1 | 0 | 8 | 111.5 | 192 | 610 |
+| litpage | Litpage | T2 | 2 | 2 | 0 | 0 | 53.8 | 2954 | 1079 |
+| open_webui | Open WebUI | T2 | 3 | 3 | 0 | 0 | 257 | 286 | 382 |
+| mediamtx | MediaMTX | T2 | 3 | 1 | 0 | 2 | 15.6 | 135 | 82 |
